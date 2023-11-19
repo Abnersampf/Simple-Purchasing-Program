@@ -1,7 +1,9 @@
 # Simple-Purchasing-Program
 This is a simple shopping program made in C, where you can create an order and add various products to it. There's also a list option, so you can see all your orders.
 <br><br>
-It's been a while since I've programmed anything, especially in C, so don't expect the best code in the world!
+It's been a while since I've programmed anything, especially in C, so don't expect the best code in the world! 
+
+If you want to test this program but don't have software that runs c, you can use OnlineGDB, an online compiler for C (and other languages): https://www.onlinegdb.com/online_c_compiler
 
 <br>
 
