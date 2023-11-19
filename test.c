@@ -136,7 +136,7 @@ int main() {
                 // Reads any key to proceed
                 getchar();
                 break;
-            // If the user chooses option 3
+            // If the user chooses option 3...
             case 3:
                 // Ends the program
                 status = 0;
