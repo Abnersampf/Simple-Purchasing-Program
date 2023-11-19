@@ -10,7 +10,7 @@ There are 3 options in the program:<br>
 
 <br>
 
-The first option shows the following screen:
+The first option shows the following screen (obviously you need to enter the product data):
 <div>
     <img src="https://github.com/Abnersampf/Simple-Purchasing-Program/assets/58574013/7335a59d-6aaf-485a-a606-48daf9189a92" width="800px"/>
 </div>
